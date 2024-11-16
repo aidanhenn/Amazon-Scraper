@@ -1,3 +1,18 @@
-2024/11/15-11:58:08.445 5a10 Reusing MANIFEST C:\Users\aidan\OneDrive\Coding\puppeteerTutorial\tmp\Default\Local Storage\leveldb/MANIFEST-000001
-2024/11/15-11:58:08.454 5a10 Recovering log #105
-2024/11/15-11:58:08.459 5a10 Reusing old log C:\Users\aidan\OneDrive\Coding\puppeteerTutorial\tmp\Default\Local Storage\leveldb/000105.log 
+2024/11/16-15:44:39.472 6d3c Reusing MANIFEST C:\Users\aidan\OneDrive\Coding\puppeteerTutorial\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/16-15:44:39.473 6d3c Recovering log #118
+2024/11/16-15:44:39.473 6d3c Level-0 table #120: started
+2024/11/16-15:44:39.489 6d3c Level-0 table #120: 42800 bytes OK
+2024/11/16-15:44:39.489 6d3c Recovering log #119
+2024/11/16-15:44:39.490 6d3c Level-0 table #121: started
+2024/11/16-15:44:39.497 6d3c Level-0 table #121: 54305 bytes OK
+2024/11/16-15:44:39.504 6d3c Delete type=0 #118
+2024/11/16-15:44:39.504 6d3c Delete type=0 #119
+2024/11/16-15:44:39.506 79a4 Compacting 4@0 + 1@1 files
+2024/11/16-15:44:39.516 79a4 Generated table #123@0: 41 keys, 56005 bytes
+2024/11/16-15:44:39.516 79a4 Compacted 4@0 + 1@1 files => 56005 bytes
+2024/11/16-15:44:39.519 79a4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/11/16-15:44:39.520 79a4 Delete type=2 #112
+2024/11/16-15:44:39.520 79a4 Delete type=2 #114
+2024/11/16-15:44:39.520 79a4 Delete type=2 #117
+2024/11/16-15:44:39.520 79a4 Delete type=2 #120
+2024/11/16-15:44:39.520 79a4 Delete type=2 #121

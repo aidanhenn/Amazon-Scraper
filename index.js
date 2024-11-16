@@ -6,7 +6,6 @@ const puppeteer = require('puppeteer');
         headless: false,
         defaultViewport: false,
         userDataDir: "./tmp",
-        timeout: 60000
     });
     const page = await browser.newPage();
 

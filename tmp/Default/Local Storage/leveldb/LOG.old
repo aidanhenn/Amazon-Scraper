@@ -1,3 +1,7 @@
-2024/11/15-11:57:55.213 4480 Reusing MANIFEST C:\Users\aidan\OneDrive\Coding\puppeteerTutorial\tmp\Default\Local Storage\leveldb/MANIFEST-000001
-2024/11/15-11:57:55.223 4480 Recovering log #105
-2024/11/15-11:57:55.229 4480 Reusing old log C:\Users\aidan\OneDrive\Coding\puppeteerTutorial\tmp\Default\Local Storage\leveldb/000105.log 
+2024/11/16-15:26:46.666 67c4 Reusing MANIFEST C:\Users\aidan\OneDrive\Coding\puppeteerTutorial\tmp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/11/16-15:26:46.677 67c4 Recovering log #115
+2024/11/16-15:26:46.677 67c4 Level-0 table #117: started
+2024/11/16-15:26:46.689 67c4 Level-0 table #117: 25544 bytes OK
+2024/11/16-15:26:46.695 67c4 Delete type=0 #115
+2024/11/16-15:26:55.278 22f8 Level-0 table #120: started
+2024/11/16-15:26:55.362 22f8 Level-0 table #120: 42800 bytes OK

@@ -11,6 +11,7 @@
   "dependencies": {
     "git": "^0.1.5",
     "progress": "^2.0.3",
-    "puppeteer": "^23.7.0"
+    "puppeteer": "^23.7.0",
+    "puppeteer-cluster": "^0.24.0"
   }
 }
